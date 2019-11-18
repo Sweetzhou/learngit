@@ -1,4 +1,0 @@
-Git is a distributed version control system.
-Git is free software distributed unter the GPL.
-This day is 18th,Nov.
-afternoon
